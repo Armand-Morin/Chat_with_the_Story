@@ -1,0 +1,14 @@
+name: ai-env
+channels:
+  - conda-forge
+dependencies:
+  - openai
+  - ipykernel
+  - langchain
+  - fastapi
+  - uvicorn
+  - python-dotenv
+  # - pip
+  # - pip:
+  #   - quart
+  #   - quart-cors
